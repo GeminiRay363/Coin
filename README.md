@@ -19,7 +19,7 @@ automatically by CMake FetchContent (pinned tags). OpenSSL comes from the OS.
 Exact pins, the CVE audit, and the upgrade policy live in DEPENDENCIES.md.
 
 ## Build
-```
+```bash
 # Linux (Debian/Ubuntu)
 sudo apt install libssl-dev cmake g++ git
 # macOS
